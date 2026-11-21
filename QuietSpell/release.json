@@ -1,5 +1,7 @@
 {
-  "version": "20261121-microsoft-voices",
+  "version": "20261121-inline-audio",
+  "inlineAudioPlayback": true,
+  "memoryOnlyAudioCache": true,
   "kanzenEntries": 1800,
   "reviewedSourceExamples": 223,
   "newReviewedExamples": 120,
