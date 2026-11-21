@@ -1,0 +1,954 @@
+[
+  {
+    "text": "あ",
+    "file": "dc5a4d3d82f7e1579295.mp3"
+  },
+  {
+    "text": "い",
+    "file": "4c6ff2461396974940d8.mp3"
+  },
+  {
+    "text": "う",
+    "file": "8a0179143e31b0958b9d.mp3"
+  },
+  {
+    "text": "え",
+    "file": "3b0a650001298c057b1a.mp3"
+  },
+  {
+    "text": "お",
+    "file": "762c1a1a571413e6c325.mp3"
+  },
+  {
+    "text": "か",
+    "file": "f500b3b07ce5e1c78cea.mp3"
+  },
+  {
+    "text": "き",
+    "file": "614459aa75868bbff375.mp3"
+  },
+  {
+    "text": "く",
+    "file": "10c477b2569aa9d276ae.mp3"
+  },
+  {
+    "text": "け",
+    "file": "81744914c053bfc39d6b.mp3"
+  },
+  {
+    "text": "こ",
+    "file": "083ed6fbedae17607705.mp3"
+  },
+  {
+    "text": "さ",
+    "file": "598e6dcaa5412a9a0136.mp3"
+  },
+  {
+    "text": "し",
+    "file": "1bb602cd1cb019533d75.mp3"
+  },
+  {
+    "text": "す",
+    "file": "a4a4c9f8a8ed62c32d21.mp3"
+  },
+  {
+    "text": "せ",
+    "file": "910204a13a70c71b1510.mp3"
+  },
+  {
+    "text": "そ",
+    "file": "b6059c658b2c4ded04f4.mp3"
+  },
+  {
+    "text": "た",
+    "file": "4cef96814184d968c644.mp3"
+  },
+  {
+    "text": "ち",
+    "file": "2bcee2b466317c947ddd.mp3"
+  },
+  {
+    "text": "つ",
+    "file": "82cb12703e4a4ce652ff.mp3"
+  },
+  {
+    "text": "て",
+    "file": "afafbae591c156ee7f01.mp3"
+  },
+  {
+    "text": "と",
+    "file": "427566260604d16fb4a9.mp3"
+  },
+  {
+    "text": "な",
+    "file": "30decdf4274513937a52.mp3"
+  },
+  {
+    "text": "に",
+    "file": "5f945f18ef58973201d6.mp3"
+  },
+  {
+    "text": "ぬ",
+    "file": "01954929e88c8fd66ad4.mp3"
+  },
+  {
+    "text": "ね",
+    "file": "9e228bcc5ed49ae30ec7.mp3"
+  },
+  {
+    "text": "の",
+    "file": "3b2e79bc719379948597.mp3"
+  },
+  {
+    "text": "は",
+    "file": "de77c92e700013835c3f.mp3"
+  },
+  {
+    "text": "ひ",
+    "file": "ac2c2fe2a77e427f9cbb.mp3"
+  },
+  {
+    "text": "ふ",
+    "file": "0e2c91a393eaf7ecfb9c.mp3"
+  },
+  {
+    "text": "へ",
+    "file": "58c25b81f1d2466d10db.mp3"
+  },
+  {
+    "text": "ほ",
+    "file": "5a742a1142b8ad7c5c53.mp3"
+  },
+  {
+    "text": "ま",
+    "file": "f044d12b2a9f611b8c50.mp3"
+  },
+  {
+    "text": "み",
+    "file": "71541c68c80f279e2d98.mp3"
+  },
+  {
+    "text": "む",
+    "file": "cad4655b0efc3d3d3a5f.mp3"
+  },
+  {
+    "text": "め",
+    "file": "1d37bdf9abb0f388a579.mp3"
+  },
+  {
+    "text": "も",
+    "file": "06ccdf06d7529eb8ab46.mp3"
+  },
+  {
+    "text": "や",
+    "file": "6a8f5a639349d9400aaa.mp3"
+  },
+  {
+    "text": "ゆ",
+    "file": "0026f00eafdfe2710f0f.mp3"
+  },
+  {
+    "text": "よ",
+    "file": "7a0a3e30c7c42e14524f.mp3"
+  },
+  {
+    "text": "ら",
+    "file": "08f1c786678cb28866f4.mp3"
+  },
+  {
+    "text": "り",
+    "file": "1828fe931380bc200dae.mp3"
+  },
+  {
+    "text": "る",
+    "file": "1ed061f00fb6e08d9569.mp3"
+  },
+  {
+    "text": "れ",
+    "file": "653c7a8efdbb2997b1c9.mp3"
+  },
+  {
+    "text": "ろ",
+    "file": "88a9f6609db82ea11193.mp3"
+  },
+  {
+    "text": "わ",
+    "file": "f466e5f296542629821b.mp3"
+  },
+  {
+    "text": "を",
+    "file": "98aa8c57ac91533629ca.mp3"
+  },
+  {
+    "text": "ん",
+    "file": "3bad3747efd88e6345cc.mp3"
+  },
+  {
+    "text": "ア",
+    "file": "f49423c7fc7144a91dbf.mp3"
+  },
+  {
+    "text": "イ",
+    "file": "410fe1c0eea1ca99ffb5.mp3"
+  },
+  {
+    "text": "ウ",
+    "file": "62fcdf6a847e70832676.mp3"
+  },
+  {
+    "text": "エ",
+    "file": "296ce152de092ca32b2b.mp3"
+  },
+  {
+    "text": "オ",
+    "file": "19e6e37a2fdbab5ad418.mp3"
+  },
+  {
+    "text": "カ",
+    "file": "860f64c0e8859b0dfc26.mp3"
+  },
+  {
+    "text": "キ",
+    "file": "b34b58bcd32af23fdc12.mp3"
+  },
+  {
+    "text": "ク",
+    "file": "561eed1f508e742f01ab.mp3"
+  },
+  {
+    "text": "ケ",
+    "file": "02293f9797a521a30436.mp3"
+  },
+  {
+    "text": "コ",
+    "file": "03a20a68499221ca2caf.mp3"
+  },
+  {
+    "text": "サ",
+    "file": "dcc564340d0d513f7526.mp3"
+  },
+  {
+    "text": "シ",
+    "file": "f3666aa0d13b6c6a13c4.mp3"
+  },
+  {
+    "text": "ス",
+    "file": "56f2b721baad46f8a3a9.mp3"
+  },
+  {
+    "text": "セ",
+    "file": "c466ba88b1e978068755.mp3"
+  },
+  {
+    "text": "ソ",
+    "file": "930142342b78962172a0.mp3"
+  },
+  {
+    "text": "タ",
+    "file": "3f02a97fabc7e0303fa9.mp3"
+  },
+  {
+    "text": "チ",
+    "file": "2fa92c53b879e4d88d02.mp3"
+  },
+  {
+    "text": "ツ",
+    "file": "3d21cd4a05abb31b3516.mp3"
+  },
+  {
+    "text": "テ",
+    "file": "a6ab7daf528e40f62ed5.mp3"
+  },
+  {
+    "text": "ト",
+    "file": "b26a2d796c27bc7ba975.mp3"
+  },
+  {
+    "text": "ナ",
+    "file": "daeec56715f9dd0af099.mp3"
+  },
+  {
+    "text": "ニ",
+    "file": "944d02bc7499b38acb46.mp3"
+  },
+  {
+    "text": "ヌ",
+    "file": "57572a446c1d6fe7d387.mp3"
+  },
+  {
+    "text": "ネ",
+    "file": "46a30d65ac6eda2ce40f.mp3"
+  },
+  {
+    "text": "ノ",
+    "file": "aa59218a318ee3ffd443.mp3"
+  },
+  {
+    "text": "ハ",
+    "file": "5a5eb8495e7e1ac0c271.mp3"
+  },
+  {
+    "text": "ヒ",
+    "file": "167cf0fe1ebe89ed3db8.mp3"
+  },
+  {
+    "text": "フ",
+    "file": "9df8cbce8468e7905842.mp3"
+  },
+  {
+    "text": "ヘ",
+    "file": "959b5fb556dc3ca72066.mp3"
+  },
+  {
+    "text": "ホ",
+    "file": "58de2f238b974b80165c.mp3"
+  },
+  {
+    "text": "マ",
+    "file": "f72ae52ce8ee6dbe71ed.mp3"
+  },
+  {
+    "text": "ミ",
+    "file": "41b6e06173acab721ac0.mp3"
+  },
+  {
+    "text": "ム",
+    "file": "f0717b7e4463a13b2a5a.mp3"
+  },
+  {
+    "text": "メ",
+    "file": "3a16c07c11a4d410a10c.mp3"
+  },
+  {
+    "text": "モ",
+    "file": "d688b8063217484d24d9.mp3"
+  },
+  {
+    "text": "ヤ",
+    "file": "c916ed7c78e4c4def073.mp3"
+  },
+  {
+    "text": "ユ",
+    "file": "310b2a07f46e00fefbef.mp3"
+  },
+  {
+    "text": "ヨ",
+    "file": "b9dead0b43355e2415a7.mp3"
+  },
+  {
+    "text": "ラ",
+    "file": "8fcf513a744912b19b68.mp3"
+  },
+  {
+    "text": "リ",
+    "file": "14b9c3492157eccbcf1b.mp3"
+  },
+  {
+    "text": "ル",
+    "file": "74322165253f3b17c4d9.mp3"
+  },
+  {
+    "text": "レ",
+    "file": "7ca522a92e77cc2f5074.mp3"
+  },
+  {
+    "text": "ロ",
+    "file": "413fcd407e2aa8e30ffb.mp3"
+  },
+  {
+    "text": "ワ",
+    "file": "9de21f408717795fcdba.mp3"
+  },
+  {
+    "text": "ヲ",
+    "file": "17ca7f0f8b60cd3f0150.mp3"
+  },
+  {
+    "text": "ン",
+    "file": "0f66959f485070f69857.mp3"
+  },
+  {
+    "text": "が",
+    "file": "e3b21956ce958d2599e4.mp3"
+  },
+  {
+    "text": "ぎ",
+    "file": "95b30f74a2aee850a04c.mp3"
+  },
+  {
+    "text": "ぐ",
+    "file": "bcfd3bc6b7b47707fcea.mp3"
+  },
+  {
+    "text": "げ",
+    "file": "41aceb4407f8d97d20f1.mp3"
+  },
+  {
+    "text": "ご",
+    "file": "a01669e6ccf908c0900f.mp3"
+  },
+  {
+    "text": "ざ",
+    "file": "125a2a0798c75356150b.mp3"
+  },
+  {
+    "text": "じ",
+    "file": "bfb06973c3079797abc1.mp3"
+  },
+  {
+    "text": "ず",
+    "file": "fbb749fade42c0319ef8.mp3"
+  },
+  {
+    "text": "ぜ",
+    "file": "7a2b9fadc056a4e12780.mp3"
+  },
+  {
+    "text": "ぞ",
+    "file": "2fbe4700340b0870ae70.mp3"
+  },
+  {
+    "text": "だ",
+    "file": "8b53bf6f987a8b5ba39f.mp3"
+  },
+  {
+    "text": "ぢ",
+    "file": "bc6449aa4a7e320ee804.mp3"
+  },
+  {
+    "text": "づ",
+    "file": "6451e9cd22842e8d646d.mp3"
+  },
+  {
+    "text": "で",
+    "file": "a2e54fdcf32b8ceaa593.mp3"
+  },
+  {
+    "text": "ど",
+    "file": "83e3e6bb20d612f7e4e0.mp3"
+  },
+  {
+    "text": "ば",
+    "file": "6eb4beb351ba4dd8d3e5.mp3"
+  },
+  {
+    "text": "び",
+    "file": "2c61ff462011cf8b25de.mp3"
+  },
+  {
+    "text": "ぶ",
+    "file": "ff75dec6aad37d0d3b27.mp3"
+  },
+  {
+    "text": "べ",
+    "file": "46c8d60d8bc651695a7f.mp3"
+  },
+  {
+    "text": "ぼ",
+    "file": "fb2a4a5d28fef1f5ed01.mp3"
+  },
+  {
+    "text": "ぱ",
+    "file": "2ccb5d56a6f044e39eda.mp3"
+  },
+  {
+    "text": "ぴ",
+    "file": "a9e571593c16679cb60c.mp3"
+  },
+  {
+    "text": "ぷ",
+    "file": "98bc98dde31a8278c536.mp3"
+  },
+  {
+    "text": "ぺ",
+    "file": "9ce79d0b6935129fa299.mp3"
+  },
+  {
+    "text": "ぽ",
+    "file": "29d8625781fed1a9cacb.mp3"
+  },
+  {
+    "text": "きゃ",
+    "file": "2ff5ae6efe948dd8a37e.mp3"
+  },
+  {
+    "text": "きゅ",
+    "file": "9c247e28bfa163ed60a9.mp3"
+  },
+  {
+    "text": "きょ",
+    "file": "2952b9dbfce90e2b21a9.mp3"
+  },
+  {
+    "text": "しゃ",
+    "file": "51dc9788715f809461bc.mp3"
+  },
+  {
+    "text": "しゅ",
+    "file": "f8516fa7dce11f02ac13.mp3"
+  },
+  {
+    "text": "しょ",
+    "file": "ef05e9c5bd344f924c1b.mp3"
+  },
+  {
+    "text": "ちゃ",
+    "file": "40567f336c59951f82dd.mp3"
+  },
+  {
+    "text": "ちゅ",
+    "file": "2c7f6f31d3e690348f3e.mp3"
+  },
+  {
+    "text": "ちょ",
+    "file": "d9bbca88a093f01770b5.mp3"
+  },
+  {
+    "text": "にゃ",
+    "file": "f92b3b41102f78ed150c.mp3"
+  },
+  {
+    "text": "にゅ",
+    "file": "f2a474cff308298a3e41.mp3"
+  },
+  {
+    "text": "にょ",
+    "file": "85063421a5eea69ed324.mp3"
+  },
+  {
+    "text": "ひゃ",
+    "file": "c2cbe93be194d69a8b35.mp3"
+  },
+  {
+    "text": "ひゅ",
+    "file": "4eb3a5fcbea3f29cf780.mp3"
+  },
+  {
+    "text": "ひょ",
+    "file": "c67f96569b2799b0bb50.mp3"
+  },
+  {
+    "text": "みゃ",
+    "file": "47eeccedc72f9329ddb9.mp3"
+  },
+  {
+    "text": "みゅ",
+    "file": "7f3f2482c24dee567274.mp3"
+  },
+  {
+    "text": "みょ",
+    "file": "fb03accd25a2f1d4c0fb.mp3"
+  },
+  {
+    "text": "りゃ",
+    "file": "95703d390d4a0b98efc3.mp3"
+  },
+  {
+    "text": "りゅ",
+    "file": "a51e5845490c0c10d11d.mp3"
+  },
+  {
+    "text": "りょ",
+    "file": "aaea714e0dcd2a0e9a71.mp3"
+  },
+  {
+    "text": "ぎゃ",
+    "file": "0443e9f0f98575804dd3.mp3"
+  },
+  {
+    "text": "ぎゅ",
+    "file": "cb1b6d2997d593144c40.mp3"
+  },
+  {
+    "text": "ぎょ",
+    "file": "01f1f78d8b701e507b0a.mp3"
+  },
+  {
+    "text": "じゃ",
+    "file": "11ccea378e78ebdbca84.mp3"
+  },
+  {
+    "text": "じゅ",
+    "file": "4fa4051bbc6af2ba04d0.mp3"
+  },
+  {
+    "text": "じょ",
+    "file": "1c2875304f547cea8908.mp3"
+  },
+  {
+    "text": "びゃ",
+    "file": "1b1a9bcd3e71a37e59de.mp3"
+  },
+  {
+    "text": "びゅ",
+    "file": "c0c2b6d4a6a04bb2a884.mp3"
+  },
+  {
+    "text": "びょ",
+    "file": "b2e7b5a13271c5a2e5cc.mp3"
+  },
+  {
+    "text": "ぴゃ",
+    "file": "0ca50a805636310bb1ad.mp3"
+  },
+  {
+    "text": "ぴゅ",
+    "file": "28cf4c8cc2f67f0159de.mp3"
+  },
+  {
+    "text": "ぴょ",
+    "file": "11eb3e109a97f5478f97.mp3"
+  },
+  {
+    "text": "こんにちは",
+    "file": "125aeadf27b0459b8760.mp3"
+  },
+  {
+    "text": "こんにちは、お元気ですか。",
+    "file": "2d1bad9768db80f7ddf3.mp3"
+  },
+  {
+    "text": "おはよう",
+    "file": "4314662c3426676a1dd5.mp3"
+  },
+  {
+    "text": "おはよう、よく眠れましたか。",
+    "file": "e1c1807bba27a32bae12.mp3"
+  },
+  {
+    "text": "こんばんは",
+    "file": "70d3e9fba8c749125e4f.mp3"
+  },
+  {
+    "text": "こんばんは、今日は寒いですね。",
+    "file": "9e2eb143a908b0825fd2.mp3"
+  },
+  {
+    "text": "ありがとう",
+    "file": "5773be7d3dedf7cbda8a.mp3"
+  },
+  {
+    "text": "手伝ってくれて、ありがとう。",
+    "file": "e8589aa9b5a9b0f9868b.mp3"
+  },
+  {
+    "text": "すみません",
+    "file": "20c644122287a484288c.mp3"
+  },
+  {
+    "text": "すみません、駅はどこですか。",
+    "file": "71ffed1aa18e055b9020.mp3"
+  },
+  {
+    "text": "さようなら",
+    "file": "7d91977f8227bc5a8b0e.mp3"
+  },
+  {
+    "text": "先生、さようなら。",
+    "file": "2f2663224f6fd366250f.mp3"
+  },
+  {
+    "text": "はじめまして",
+    "file": "1a7b00c2059a05e6e47c.mp3"
+  },
+  {
+    "text": "はじめまして、田中です。",
+    "file": "4aa04d04dc146f9798c2.mp3"
+  },
+  {
+    "text": "お願いします",
+    "file": "c5c3df248eaaa492712e.mp3"
+  },
+  {
+    "text": "水をお願いします。",
+    "file": "9400e97be8e8e6127252.mp3"
+  },
+  {
+    "text": "はい",
+    "file": "8f90d85ec13a0b1b12d8.mp3"
+  },
+  {
+    "text": "はい、わかりました。",
+    "file": "83356588561a699085b4.mp3"
+  },
+  {
+    "text": "いいえ",
+    "file": "48ef2b674823d03d4586.mp3"
+  },
+  {
+    "text": "いいえ、違います。",
+    "file": "9875e6531e4a8aa37ca1.mp3"
+  },
+  {
+    "text": "私",
+    "file": "dbc879e139da5b0af3c7.mp3"
+  },
+  {
+    "text": "私は中国から来ました。",
+    "file": "88d7845f33bd907d72fd.mp3"
+  },
+  {
+    "text": "日本語",
+    "file": "77710aedc74ecfa33685.mp3"
+  },
+  {
+    "text": "日本語を勉強しています。",
+    "file": "17cabce22609689656f3.mp3"
+  },
+  {
+    "text": "学生",
+    "file": "13a58ec2074e014ae64e.mp3"
+  },
+  {
+    "text": "兄は大学生です。",
+    "file": "95b3cd02c2637863d819.mp3"
+  },
+  {
+    "text": "先生",
+    "file": "cd98e43da31bb1b90dc1.mp3"
+  },
+  {
+    "text": "先生に質問します。",
+    "file": "c7aeb74e754a203a017a.mp3"
+  },
+  {
+    "text": "友達",
+    "file": "93015cdfdcb0f67afdb4.mp3"
+  },
+  {
+    "text": "友達と映画を見ます。",
+    "file": "ae1d7631926018d3a965.mp3"
+  },
+  {
+    "text": "学校",
+    "file": "dc6e2aafeb9e125b69d1.mp3"
+  },
+  {
+    "text": "毎日、学校に行きます。",
+    "file": "7186e4ffb0f68776666d.mp3"
+  },
+  {
+    "text": "本",
+    "file": "83831c3f910cf940c661.mp3"
+  },
+  {
+    "text": "図書館で本を読みます。",
+    "file": "63a60c827e2382b087bc.mp3"
+  },
+  {
+    "text": "水",
+    "file": "327b54d04f71f2126114.mp3"
+  },
+  {
+    "text": "水を飲みます。",
+    "file": "70a6096abed12ad7cc0a.mp3"
+  },
+  {
+    "text": "猫",
+    "file": "a810bf845a307382118e.mp3"
+  },
+  {
+    "text": "猫が寝ています。",
+    "file": "f622ddc8a4ea04993431.mp3"
+  },
+  {
+    "text": "犬",
+    "file": "1e82f9b0b67529c5bc8e.mp3"
+  },
+  {
+    "text": "犬と散歩します。",
+    "file": "dd4f41341259af42d742.mp3"
+  },
+  {
+    "text": "今日",
+    "file": "5c9cf5e0dd47dc80ac04.mp3"
+  },
+  {
+    "text": "今日はいい天気です。",
+    "file": "f09463ded6f05bc0a804.mp3"
+  },
+  {
+    "text": "明日",
+    "file": "6450d5f86685fd01626e.mp3"
+  },
+  {
+    "text": "明日は休みです。",
+    "file": "fcbb01dd80fe943abcc2.mp3"
+  },
+  {
+    "text": "朝",
+    "file": "419c745398dffb654b26.mp3"
+  },
+  {
+    "text": "朝、パンを食べます。",
+    "file": "099cb1a3248dd0d46ffa.mp3"
+  },
+  {
+    "text": "食べる",
+    "file": "2b7ce3887f50f5f184c4.mp3"
+  },
+  {
+    "text": "一緒にご飯を食べましょう。",
+    "file": "2f181a90810f7de9d846.mp3"
+  },
+  {
+    "text": "飲む",
+    "file": "5706ea39cdd0272c4673.mp3"
+  },
+  {
+    "text": "毎朝、お茶を飲みます。",
+    "file": "e1eac327350fcd75ec1a.mp3"
+  },
+  {
+    "text": "行く",
+    "file": "d74a571ffab4df17d50c.mp3"
+  },
+  {
+    "text": "明日、京都に行きます。",
+    "file": "a58643c4db6f81ce0ccd.mp3"
+  },
+  {
+    "text": "見る",
+    "file": "c1ee2c0cd4e9e38c42d6.mp3"
+  },
+  {
+    "text": "夜、テレビを見ます。",
+    "file": "15c3203759bf6fe5a249.mp3"
+  },
+  {
+    "text": "聞く",
+    "file": "d9291ccba400db30a740.mp3"
+  },
+  {
+    "text": "音楽を聞きます。",
+    "file": "08499b0c2f71295df73a.mp3"
+  },
+  {
+    "text": "電車",
+    "file": "92e4d1d0c7a5087ac9e5.mp3"
+  },
+  {
+    "text": "電車で会社に行きます。",
+    "file": "1cb25f6bca7d818221e0.mp3"
+  },
+  {
+    "text": "切手",
+    "file": "e4180a9b7cb78f641b77.mp3"
+  },
+  {
+    "text": "郵便局で切手を買います。",
+    "file": "140aa984fccf7ac58e2a.mp3"
+  },
+  {
+    "text": "コーヒー",
+    "file": "bb782cf87667ea09544c.mp3"
+  },
+  {
+    "text": "コーヒーを一杯ください。",
+    "file": "f9ef78595c58fd507eaf.mp3"
+  },
+  {
+    "text": "スーパー",
+    "file": "ec8fb05b2123de8c0305.mp3"
+  },
+  {
+    "text": "スーパーで野菜を買います。",
+    "file": "f5faca22abc3622f58ea.mp3"
+  },
+  {
+    "text": "テレビ",
+    "file": "6ff4e9d438f1170b486b.mp3"
+  },
+  {
+    "text": "このテレビは新しいです。",
+    "file": "83346ed8bfcb433b475c.mp3"
+  },
+  {
+    "text": "カメラ",
+    "file": "8ed84c233a439cf93500.mp3"
+  },
+  {
+    "text": "カメラで写真を撮ります。",
+    "file": "c11a4ac194fd38c18a7c.mp3"
+  },
+  {
+    "text": "ホテル",
+    "file": "b9c4eb36513280fbeaa3.mp3"
+  },
+  {
+    "text": "駅の近くにホテルがあります。",
+    "file": "c2cbc2fa1d56958168d8.mp3"
+  },
+  {
+    "text": "タクシー",
+    "file": "88e568182d22511934d0.mp3"
+  },
+  {
+    "text": "タクシーで帰ります。",
+    "file": "b605e9166b2f96bf2d37.mp3"
+  },
+  {
+    "text": "パン",
+    "file": "433c68371a3d55886bbd.mp3"
+  },
+  {
+    "text": "このパンはおいしいです。",
+    "file": "b65928f571a5dc11763f.mp3"
+  },
+  {
+    "text": "ベッド",
+    "file": "510c20b4dc9d5ac41aba.mp3"
+  },
+  {
+    "text": "部屋にベッドがあります。",
+    "file": "ac5c9cb8a0b69dcecff5.mp3"
+  },
+  {
+    "text": "チケット",
+    "file": "cc3f6965e496b7343cbe.mp3"
+  },
+  {
+    "text": "チケットを二枚ください。",
+    "file": "985a235f2875c9fb185b.mp3"
+  },
+  {
+    "text": "コンピューター",
+    "file": "64e9d32b2032f7a98c1a.mp3"
+  },
+  {
+    "text": "コンピューターで仕事をします。",
+    "file": "1a30791170c4b7bd2f57.mp3"
+  },
+  {
+    "text": "はじめまして。",
+    "file": "842fbbbd1e4932506ea2.mp3"
+  },
+  {
+    "text": "私は学生です。",
+    "file": "672ded26ea3a72ec940b.mp3"
+  },
+  {
+    "text": "毎日、日本語を勉強します。",
+    "file": "266fffb715cf17ceb38d.mp3"
+  },
+  {
+    "text": "どうぞよろしくお願いします。",
+    "file": "f314a3ca872805d6b85a.mp3"
+  },
+  {
+    "text": "今日は日曜日です。",
+    "file": "8013d761055640612577.mp3"
+  },
+  {
+    "text": "友達と公園に行きます。",
+    "file": "df5a3bf83b72b654009a.mp3"
+  },
+  {
+    "text": "一緒にお弁当を食べます。",
+    "file": "cb2734bad6a60e856551.mp3"
+  },
+  {
+    "text": "とても楽しいです。",
+    "file": "7a2efe51e50cad23a5aa.mp3"
+  }
+]

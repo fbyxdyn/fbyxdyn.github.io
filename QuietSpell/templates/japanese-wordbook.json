@@ -1,0 +1,37 @@
+{
+  "name": "我的第一本日语词书",
+  "words": [
+    {
+      "word": "猫",
+      "reading": "ねこ",
+      "meaning": "猫",
+      "example": {
+        "text": "猫が好きです。",
+        "reading": "ねこがすきです。",
+        "meaning": "我喜欢猫。"
+      }
+    },
+    {
+      "word": "学校",
+      "reading": "がっこう",
+      "meaning": "学校",
+      "partOfSpeech": "名词",
+      "phrases": [{ "text": "学校に行く", "reading": "がっこうにいく", "meaning": "去学校" }]
+    },
+    {
+      "word": "友達",
+      "reading": "ともだち",
+      "meaning": "朋友",
+      "partOfSpeech": "名词",
+      "examples": [
+        { "text": "友達に会います。", "reading": "ともだちにあいます。", "meaning": "见朋友。" },
+        { "text": "友達と映画を見ます。", "reading": "ともだちとえいがをみます。", "meaning": "和朋友看电影。" }
+      ],
+      "phrases": [{ "text": "友達になる", "reading": "ともだちになる", "meaning": "成为朋友" }],
+      "synonyms": [
+        { "text": "友人", "reading": "ゆうじん", "meaning": "朋友", "note": "较正式，常用于书面语或正式介绍。" }
+      ],
+      "detailsSource": "学习补充（自编例句）"
+    }
+  ]
+}

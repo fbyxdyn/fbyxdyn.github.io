@@ -1,0 +1,1 @@
+import"./C3d25vGj.js";var e=globalThis.setInterval;export{e as t};
