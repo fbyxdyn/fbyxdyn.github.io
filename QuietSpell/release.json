@@ -1,7 +1,9 @@
 {
-  "version": "20261121-audio-kanzen",
+  "version": "20261121-kanzen-batch2",
   "kanzenEntries": 1800,
-  "reviewedSourceExamples": 103,
+  "reviewedSourceExamples": 223,
+  "newReviewedExamples": 120,
+  "kanzenEntriesWithExamples": 1039,
   "bundledRecordings": 7000,
   "realtimeFallback": "Japanese device voice / Youdao online",
   "hashes": {
@@ -10,6 +12,6 @@
     "n3-pdf-2.json": "a59b673acba5f629aaa41105b1a6b947af70a9c995db51cc1217b78bb727ed4f",
     "n3-pdf-3.json": "e562219bb6f55523e48bdfbc739e2c5de3384f20b3ece508ea78b751966a7e3b",
     "n3-enrichment.json": "e7c09a0b0d32e850bc2bb0bd70b863e76f0c1ac76029b6e14482e586eb22f811",
-    "n3-kanzen-enrichment.json": "c05c15db3783503585e61ff257ae592ea47fc51e91e37aec28fe27bb6ec90aa7"
+    "n3-kanzen-enrichment.json": "3033d19b4dc875314338cb70d5d7a86f7956785a124c3487353e14e97f8097c5"
   }
 }
