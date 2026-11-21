@@ -1,0 +1,121 @@
+<!doctype html>
+<!-- QuietSpell voice audition page. GPL-3.0-only. No credentials or stored user text. -->
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="QuietSpell 日语音源：试听内置音频、设备日语语音和微软 Nanami、Keita。">
+<title>音源 · QuietSpell</title>
+<style>
+:root{font-family:"Segoe UI","Microsoft YaHei",system-ui,sans-serif;color:#233248;background:#f4f7fb;font-synthesis:none}*{box-sizing:border-box}body{margin:0;line-height:1.7}a{color:#285fc0;text-decoration:none}a:hover{text-decoration:underline}button,input,textarea,select{font:inherit}button{cursor:pointer}button:disabled{cursor:default;opacity:.5}button,a,textarea,select{-webkit-tap-highlight-color:transparent}main{max-width:900px;margin:auto;padding:28px 24px 48px}nav{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:38px}.brand{font-weight:750;color:#213f6b;font-size:20px}.links{display:flex;gap:20px;font-size:14px;align-items:center}.eyebrow{font-size:12px;letter-spacing:2px;color:#5074ad;margin:0 0 9px;font-weight:700}h1{font-size:36px;letter-spacing:-1px;line-height:1.3;margin:0 0 10px}h2{font-size:21px;margin:0 0 6px}p{margin:0 0 14px}.intro,.muted{color:#69788c}.intro{margin-bottom:28px}.panel{padding:25px;background:white;border:1px solid #dde5f0;border-radius:18px;margin-bottom:20px}.section-head{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:17px}.badge{font-size:12px;border-radius:20px;padding:3px 10px;white-space:nowrap;background:#e9f4ed;color:#367449}.badge.pending{background:#fff2de;color:#946222}.sample-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.sample{background:#f7f9fd;border:1px solid #e0e7f1;border-radius:12px;padding:16px;min-width:0}.jp{font-size:24px;font-weight:600;margin-bottom:2px}.reading{font-size:14px;color:#7a899e}.meaning{font-size:14px;color:#586b86;margin:3px 0 13px}.small{font-size:13px}.button{border:1px solid #cad7ea;background:white;color:#2b548a;min-height:44px;padding:8px 15px;border-radius:9px}.primary{color:white;background:#315fbd;border-color:#315fbd}.sample .button{width:100%}audio{width:100%;margin-top:20px;display:block}.status{min-height:28px;font-size:14px;color:#62778e;margin:8px 0 0;overflow-wrap:anywhere}.status.error{color:#b54c3c}textarea{display:block;width:100%;resize:vertical;min-height:104px;font-size:16px;line-height:1.8;color:#263b58;background:#fbfcfe;border:1px solid #cfd9e8;border-radius:10px;padding:12px 14px;margin:12px 0 14px;outline:none}textarea:focus{border-color:#5781d0;box-shadow:0 0 0 3px #eef3ff}.voices{display:flex;gap:12px;flex-wrap:wrap;margin:12px 0}.voice{flex:1;min-width:180px;background:#f6f8fc;border:1px solid #e0e6f0;border-radius:11px;padding:15px}.voice strong{display:block;font-size:16px}.voice span{font-size:13px;color:#718098}.actions{display:flex;flex-wrap:wrap;gap:10px;align-items:center}.actions select{min-height:44px;border:1px solid #cad7ea;border-radius:9px;padding:8px 12px;color:#294777;background:white}.explain{font-size:14px;color:#6c7c90}.notice{border-left:3px solid #dfba70;background:#fffaf0;padding:12px 15px;border-radius:6px;margin-top:13px;font-size:14px;color:#89662d}footer{color:#7c899b;font-size:12px;margin-top:30px}footer a{color:#607da8}label{font-size:14px;color:#526985}@media(max-width:600px){main{padding:22px 16px 36px}nav{margin-bottom:27px}h1{font-size:29px}.panel{padding:19px 16px}.sample-grid{grid-template-columns:1fr}.sample{display:grid;grid-template-columns:1fr auto;column-gap:15px;padding:14px}.sample .jp{grid-column:1}.sample .reading,.sample .meaning{grid-column:1}.sample .meaning{margin-bottom:0}.sample .button{grid-column:2;grid-row:1 / 4;align-self:center;width:auto;min-width:78px}.section-head{align-items:flex-start}.badge{margin-top:3px}.voice{min-width:0}.links{gap:13px}.actions .button{flex:1}.actions select{width:100%}}
+</style>
+</head>
+<body>
+<main>
+<nav><a class="brand" href="https://fbyxdyn.github.io/">QuietSpell</a><div class="links"><a href="https://fbyxdyn.github.io/">返回博客</a><a href="../japanese/">进入日语学习</a></div></nav>
+<header><p class="eyebrow">QUIETSPELL / VOICE</p><h1>音源</h1><p class="intro">先试听，再选择适合自己的日语声音。</p></header>
+<section class="panel" aria-labelledby="bundled-title">
+<div class="section-head"><div><h2 id="bundled-title">内置音频</h2><p class="muted small">与学习网站同源，点击即可试听。</p></div><span class="badge">可试听</span></div>
+<div class="sample-grid">
+<div class="sample"><div class="jp" lang="ja">こんにちは</div><div class="reading">こんにちは</div><div class="meaning">你好</div><button class="button" data-sample="0">试听</button></div>
+<div class="sample"><div class="jp" lang="ja">先生</div><div class="reading">せんせい</div><div class="meaning">老师</div><button class="button" data-sample="1">试听</button></div>
+<div class="sample"><div class="jp" lang="ja">愛情</div><div class="reading">あいじょう</div><div class="meaning">爱、感情</div><button class="button" data-sample="2">试听</button></div>
+</div>
+<audio id="audio" controls preload="none" playsinline controlslist="nodownload"></audio>
+<p id="status" class="status" role="status" aria-live="polite">选择一个示例，或使用播放器播放。</p>
+</section>
+<section class="panel" aria-labelledby="online-title">
+<div class="section-head"><div><h2 id="online-title">微软实时语音</h2><p class="muted small">输入任意日文，实时合成，不保存音频文件。</p></div><span id="relay-badge" class="badge pending">正在迁移</span></div>
+<div class="voices"><div class="voice"><strong>Nanami</strong><span>微软日语女声</span></div><div class="voice"><strong>Keita</strong><span>微软日语男声</span></div></div>
+<label for="text">试音文字</label><textarea id="text" maxlength="300" lang="ja">今日は日本語を勉強します。</textarea>
+<div class="actions"><select id="voice" aria-label="选择微软音色"><option value="ja-JP-NanamiNeural">Nanami · 女声</option><option value="ja-JP-KeitaNeural">Keita · 男声</option></select><button id="play-online" class="button primary" disabled>播放微软语音</button><button id="stop" class="button">停止播放</button></div>
+<p id="relay-note" class="notice">实时语音服务正在迁移。接入并验证新的地址后，会在这里启用；上方内置音频可先使用。</p>
+</section>
+<section class="panel" aria-labelledby="device-title"><h2 id="device-title">设备日语语音</h2><p class="explain">调用这台设备／浏览器提供的日语声音。部分 Android 浏览器没有可用日语音色，效果以实际试听为准。</p><button id="play-device" class="button">用设备语音朗读上方文字</button><p id="device-note" class="status" role="status"></p></section>
+<footer>内置合成音频：Open JTalk / HTS Voice “Mei”，© Nagoya Institute of Technology，<a href="https://creativecommons.org/licenses/by/3.0/">CC BY 3.0</a>。<br>音频示例沿用学习网站已有录音。本站不保存试音文字。页面代码 GPL-3.0-only，<a href="./voice-page-source.txt">查看页面源码</a>。</footer>
+</main>
+<script>
+const samples = [
+ { text: 'こんにちは', file: '125aeadf27b0459b8760.mp3' },
+ { text: '先生', file: 'cd98e43da31bb1b90dc1.mp3' },
+ { text: '愛情', file: 'n3/6da765bf0fca68170b8f.mp3' },
+];
+const audio = document.getElementById('audio'), text = document.getElementById('text');
+const status = document.getElementById('status'), note = document.getElementById('device-note');
+let relayOrigin = '', sequence = 0, controller, objectURL, context, sourceNode;
+const clips = new Map();
+function say(message, error = false) { status.textContent = message; status.className = 'status' + (error ? ' error' : ''); }
+function stop() {
+ sequence++; controller?.abort(); controller = undefined;
+ if (sourceNode) { sourceNode.onended = null; try { sourceNode.stop(); } catch {} sourceNode.disconnect(); sourceNode = undefined; }
+ audio.pause(); audio.removeAttribute('src'); audio.load();
+ if (objectURL) URL.revokeObjectURL(objectURL); objectURL = undefined;
+ window.speechSynthesis?.cancel();
+}
+audio.addEventListener('error', () => say('音频未能加载，请确认网站网络连接后重试。', true));
+audio.addEventListener('ended', () => say('播放完毕，可以选择其他示例。'));
+document.querySelectorAll('[data-sample]').forEach(button => button.addEventListener('click', () => {
+ stop(); const sample = samples[Number(button.dataset.sample)]; audio.src = '../audio/japanese/' + sample.file;
+ say('正在播放内置音频 · ' + sample.text);
+ audio.play().catch(() => say('浏览器没有开始播放，请点击播放器的播放键。', true));
+}));
+document.getElementById('stop').addEventListener('click', () => { stop(); say('已停止。'); });
+document.getElementById('play-device').addEventListener('click', () => {
+ stop(); note.textContent = '';
+ if (!text.value.trim()) { text.focus(); return; }
+ const synth = window.speechSynthesis;
+ const voice = synth?.getVoices().find(item => /^ja(?:-|_)/i.test(item.lang));
+ if (!voice || typeof SpeechSynthesisUtterance === 'undefined') { note.textContent = '本浏览器暂未提供日语声音，可先试听上方内置音频。'; return; }
+ const active = sequence, utterance = new SpeechSynthesisUtterance(text.value.trim());
+ utterance.lang = 'ja-JP'; utterance.voice = voice; utterance.rate = .85;
+ let started = false;
+ const timeout = setTimeout(() => { if (active === sequence && !started) { synth.cancel(); note.textContent = '设备语音未能开始播放，可先使用内置音频。'; } }, 5000);
+ utterance.onstart = () => { started = true; clearTimeout(timeout); note.textContent = '正在播放设备日语语音。'; };
+ utterance.onend = () => { clearTimeout(timeout); if (active === sequence) note.textContent = '设备语音播放完毕。'; };
+ utterance.onerror = () => { clearTimeout(timeout); if (active === sequence) note.textContent = '设备未能播放这段日语，可先使用内置音频。'; };
+ synth.speak(utterance);
+});
+window.speechSynthesis?.getVoices();
+fetch('./config.json', { cache: 'no-store' }).then(response => response.ok ? response.json() : Promise.reject()).then(config => {
+ if (!config.relayOrigin) return;
+ const url = new URL(config.relayOrigin);
+ if (url.protocol !== 'https:' || url.username || url.password || url.hostname.endsWith('.chatgpt.site')) return;
+ relayOrigin = url.origin;
+ document.getElementById('play-online').disabled = false;
+ document.getElementById('relay-badge').textContent = '已接入'; document.getElementById('relay-badge').className = 'badge';
+ document.getElementById('relay-note').textContent = '已接入新的实时语音服务。首次播放需要联网；若网络不通，上方内置音频仍可试听。';
+}).catch(() => {});
+document.getElementById('play-online').addEventListener('click', async () => {
+ if (!relayOrigin || !text.value.trim()) return;
+ stop(); const active = sequence;
+ // Unlock Web Audio inside the tap; loading and decoding happen afterward.
+ let ready = Promise.resolve(false);
+ try { const C = window.AudioContext || window.webkitAudioContext; if (C) { context ??= new C(); ready = context.state === 'running' ? Promise.resolve(true) : context.resume().then(() => context.state === 'running', () => false); } } catch {}
+ const voice = document.getElementById('voice').value;
+ const url = relayOrigin + '/speech?' + new URLSearchParams({ voice, text: text.value.trim() });
+ controller = new AbortController(); const signal = controller.signal;
+ const timer = setTimeout(() => { if (active === sequence) controller?.abort(); }, 15000);
+ say('正在获取 ' + (voice.includes('Nanami') ? 'Nanami' : 'Keita') + ' 语音…');
+ try {
+  let blob = clips.get(url);
+  if (!blob) {
+   const response = await fetch(url, { signal, credentials: 'omit', cache: 'no-store' });
+   if (!response.ok || !(response.headers.get('Content-Type') || '').startsWith('audio/')) throw new Error('unavailable');
+   blob = await response.blob(); if (blob.size < 256) throw new Error('empty');
+   clips.set(url, blob); while (clips.size > 8) clips.delete(clips.keys().next().value);
+  }
+  if (active !== sequence || signal.aborted) return;
+  if (await ready) {
+   const buffer = await context.decodeAudioData(await blob.arrayBuffer());
+   if (active !== sequence || signal.aborted) return;
+   sourceNode = context.createBufferSource(); sourceNode.buffer = buffer; sourceNode.connect(context.destination);
+   sourceNode.onended = () => { if (active === sequence) say('播放完毕。'); }; sourceNode.start();
+  } else { objectURL = URL.createObjectURL(blob); audio.src = objectURL; await audio.play(); }
+  say('正在播放微软实时语音。');
+ } catch (error) { if (active === sequence) say(error?.name === 'NotAllowedError' ? '请再次点击播放，或点击下方播放器的播放键。' : '实时语音未能连接或播放，可先试听上方内置音频。', true); }
+ finally { clearTimeout(timer); }
+});
+window.addEventListener('pagehide', () => { stop(); void context?.close(); clips.clear(); });
+</script>
+</body>
+</html>
