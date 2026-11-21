@@ -1,5 +1,14 @@
 {
-  "version": "20261121-inline-audio",
+  "version": "20261121-voice-grammar",
+  "status": "online-trial",
+  "publicationAuthorized": true,
+  "grammarEntries": 211,
+  "grammarUnits": 36,
+  "grammarSourceExamples": 196,
+  "grammarAuthoredExamples": 15,
+  "grammarSha256": "33b2a5fb249b261ba6ea0ec55ddd682875057816b1d7217670bcaac93c404727",
+  "webAudioPlayback": true,
+  "cancelAndRetryControls": true,
   "inlineAudioPlayback": true,
   "memoryOnlyAudioCache": true,
   "kanzenEntries": 1800,
@@ -9,6 +18,7 @@
   "bundledRecordings": 7000,
   "defaultVoice": "ja-JP-NanamiNeural",
   "voices": [
+    "original",
     "ja-JP-NanamiNeural",
     "ja-JP-KeitaNeural"
   ],
