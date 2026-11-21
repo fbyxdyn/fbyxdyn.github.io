@@ -1,11 +1,18 @@
 {
-  "version": "20261121-kanzen-batch2",
+  "version": "20261121-microsoft-voices",
   "kanzenEntries": 1800,
   "reviewedSourceExamples": 223,
   "newReviewedExamples": 120,
   "kanzenEntriesWithExamples": 1039,
   "bundledRecordings": 7000,
-  "realtimeFallback": "Japanese device voice / Youdao online",
+  "defaultVoice": "ja-JP-NanamiNeural",
+  "voices": [
+    "ja-JP-NanamiNeural",
+    "ja-JP-KeitaNeural"
+  ],
+  "automaticOriginalFallback": true,
+  "voiceService": "https://quietspell-japanese-voice.wavy-cream-0113.chatgpt.site/speech",
+  "realtimeFallback": "Original recordings / Japanese device voice / Youdao / Google",
   "hashes": {
     "n3-pdf-0.json": "d58173c0fb13eeb4a799a9a6ed2a2b36277587a71376dd68af1a2613afc18707",
     "n3-pdf-1.json": "e24ebafc7dd4ef31096b350eaccdb9261452764c8c52b84211f471de1bf08c42",
