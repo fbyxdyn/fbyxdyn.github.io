@@ -1,40 +1,27 @@
 {
-  "version": "20261122-unicloud-sync-voice",
+  "version": "20261122-sync-circular-fix",
   "status": "release-ready",
-  "changedAppFiles": [
-    "app/components/JapanesePracticeView.vue",
-    "app/components/JapaneseUserSettings.vue",
+  "baseCommit": "0cfc6ab9cc747c1763a6a6f4bf00bde5d1394376",
+  "changedSourceFiles": [
     "app/composables/useJapanesePractice.ts",
-    "app/composables/useJapaneseUserSync.ts",
-    "app/core/japanese/audio.ts",
     "app/core/japanese/snapshot.ts",
-    "app/core/japanese/sync-client.ts",
-    "app/core/japanese/voices.ts"
+    "scripts/test-japanese-interaction.mjs",
+    "scripts/test-japanese-sync.mjs"
   ],
-  "grammarEntries": 211,
-  "grammarSha256": "33b2a5fb249b261ba6ea0ec55ddd682875057816b1d7217670bcaac93c404727",
-  "existingBooksUnchanged": true,
-  "recordings": 7000,
-  "rawDraftsIncluded": false,
+  "sourceArchiveSha256": "562744da943339462cdd24ab7987255baba6affb5bb9eef7955d6819a36d0df8",
+  "sourceArchiveBytes": 12218967,
+  "basePublicSourceArchiveSha256": "f8b15c88fd1b69a334599eb40aa81a039bfacd6a6f42fcb5c944b764c82cc71b",
+  "tests": {
+    "interactionWithMountedPiniaStore": 10,
+    "syncContract": 8
+  },
+  "fullBuildPassed": true,
+  "generatedRoutes": 41,
+  "existingBooksAndAudioUnchanged": true,
+  "voiceSettingsUnchanged": true,
+  "cloudServicesChanged": false,
   "personalProgressIncluded": false,
   "credentialScanPassed": true,
-  "sourceArchiveSha256": "f8b15c88fd1b69a334599eb40aa81a039bfacd6a6f42fcb5c944b764c82cc71b",
-  "sourceArchiveBytes": 12217602,
-  "basePublicSourceArchiveSha256": "279ac27f6a2cc0b154e2b10d780c04c4d2c10256cdd73008cb13d85a66190500",
-  "tests": {
-    "backend": 64,
-    "audio": 25,
-    "syncClient": 8,
-    "interaction": 9,
-    "grammarReview": 5
-  },
-  "generatedRoutes": 41,
-  "fullBuildPassed": true,
-  "microsoftCloudVoicesVerified": [
-    "Nanami",
-    "Keita"
-  ],
-  "physicalAndroidPlaybackVerified": false,
-  "voiceBaseURL": "https://env-00jy732183w8.dev-hz.cloudbasefunction.cn/voice-quietspell",
-  "syncBaseURL": "https://env-00jy732183w8.dev-hz.cloudbasefunction.cn/quietspell"
+  "rawDraftsIncluded": false,
+  "regression": "A real mounted Vue/Pinia store is circular; validated export serializes and supports upload and pre-download backup."
 }
