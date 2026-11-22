@@ -77,10 +77,11 @@ document.getElementById('play-device').addEventListener('click', () => {
 });
 window.speechSynthesis?.getVoices();
 fetch('./config.json', { cache: 'no-store' }).then(response => response.ok ? response.json() : Promise.reject()).then(config => {
- if (!config.relayOrigin) return;
- const url = new URL(config.relayOrigin);
- if (url.protocol !== 'https:' || url.username || url.password || url.hostname.endsWith('.chatgpt.site')) return;
- relayOrigin = url.origin;
+ const configured = config.relayBaseURL || config.relayOrigin;
+ if (!configured) return;
+ const url = new URL(configured);
+ if (url.protocol !== 'https:' || url.username || url.password || url.search || url.hash || url.hostname.endsWith('.chatgpt.site')) return;
+ relayOrigin = url.href.replace(/\/$/, '');
  document.getElementById('play-online').disabled = false;
  document.getElementById('relay-badge').textContent = '已接入'; document.getElementById('relay-badge').className = 'badge';
  document.getElementById('relay-note').textContent = '已接入新的实时语音服务。首次播放需要联网；若网络不通，上方内置音频仍可试听。';

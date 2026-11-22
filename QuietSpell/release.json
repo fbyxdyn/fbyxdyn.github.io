@@ -1,36 +1,40 @@
 {
-  "version": "20261121-voice-grammar",
-  "status": "online-trial",
-  "publicationAuthorized": true,
-  "grammarEntries": 211,
-  "grammarUnits": 36,
-  "grammarSourceExamples": 196,
-  "grammarAuthoredExamples": 15,
-  "grammarSha256": "33b2a5fb249b261ba6ea0ec55ddd682875057816b1d7217670bcaac93c404727",
-  "webAudioPlayback": true,
-  "cancelAndRetryControls": true,
-  "inlineAudioPlayback": true,
-  "memoryOnlyAudioCache": true,
-  "kanzenEntries": 1800,
-  "reviewedSourceExamples": 223,
-  "newReviewedExamples": 120,
-  "kanzenEntriesWithExamples": 1039,
-  "bundledRecordings": 7000,
-  "defaultVoice": "ja-JP-NanamiNeural",
-  "voices": [
-    "original",
-    "ja-JP-NanamiNeural",
-    "ja-JP-KeitaNeural"
+  "version": "20261122-unicloud-sync-voice",
+  "status": "release-ready",
+  "changedAppFiles": [
+    "app/components/JapanesePracticeView.vue",
+    "app/components/JapaneseUserSettings.vue",
+    "app/composables/useJapanesePractice.ts",
+    "app/composables/useJapaneseUserSync.ts",
+    "app/core/japanese/audio.ts",
+    "app/core/japanese/snapshot.ts",
+    "app/core/japanese/sync-client.ts",
+    "app/core/japanese/voices.ts"
   ],
-  "automaticOriginalFallback": true,
-  "voiceService": "https://quietspell-japanese-voice.wavy-cream-0113.chatgpt.site/speech",
-  "realtimeFallback": "Original recordings / Japanese device voice / Youdao / Google",
-  "hashes": {
-    "n3-pdf-0.json": "d58173c0fb13eeb4a799a9a6ed2a2b36277587a71376dd68af1a2613afc18707",
-    "n3-pdf-1.json": "e24ebafc7dd4ef31096b350eaccdb9261452764c8c52b84211f471de1bf08c42",
-    "n3-pdf-2.json": "a59b673acba5f629aaa41105b1a6b947af70a9c995db51cc1217b78bb727ed4f",
-    "n3-pdf-3.json": "e562219bb6f55523e48bdfbc739e2c5de3384f20b3ece508ea78b751966a7e3b",
-    "n3-enrichment.json": "e7c09a0b0d32e850bc2bb0bd70b863e76f0c1ac76029b6e14482e586eb22f811",
-    "n3-kanzen-enrichment.json": "3033d19b4dc875314338cb70d5d7a86f7956785a124c3487353e14e97f8097c5"
-  }
+  "grammarEntries": 211,
+  "grammarSha256": "33b2a5fb249b261ba6ea0ec55ddd682875057816b1d7217670bcaac93c404727",
+  "existingBooksUnchanged": true,
+  "recordings": 7000,
+  "rawDraftsIncluded": false,
+  "personalProgressIncluded": false,
+  "credentialScanPassed": true,
+  "sourceArchiveSha256": "f8b15c88fd1b69a334599eb40aa81a039bfacd6a6f42fcb5c944b764c82cc71b",
+  "sourceArchiveBytes": 12217602,
+  "basePublicSourceArchiveSha256": "279ac27f6a2cc0b154e2b10d780c04c4d2c10256cdd73008cb13d85a66190500",
+  "tests": {
+    "backend": 64,
+    "audio": 25,
+    "syncClient": 8,
+    "interaction": 9,
+    "grammarReview": 5
+  },
+  "generatedRoutes": 41,
+  "fullBuildPassed": true,
+  "microsoftCloudVoicesVerified": [
+    "Nanami",
+    "Keita"
+  ],
+  "physicalAndroidPlaybackVerified": false,
+  "voiceBaseURL": "https://env-00jy732183w8.dev-hz.cloudbasefunction.cn/voice-quietspell",
+  "syncBaseURL": "https://env-00jy732183w8.dev-hz.cloudbasefunction.cn/quietspell"
 }

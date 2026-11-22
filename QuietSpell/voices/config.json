@@ -1,5 +1,5 @@
 {
-  "version": "20261122-voice-audition",
-  "relayOrigin": "",
-  "status": "migrating"
+  "version": "20261122-unicloud-voice",
+  "relayBaseURL": "https://env-00jy732183w8.dev-hz.cloudbasefunction.cn/voice-quietspell",
+  "status": "ready"
 }
